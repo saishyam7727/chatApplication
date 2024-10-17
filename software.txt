@@ -1,0 +1,5 @@
+powepoint
+xml
+paint
+google
+microsoft:
